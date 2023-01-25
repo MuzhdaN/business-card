@@ -2,8 +2,14 @@ import React from 'react';
 
 export default function About() {
     return(
-        <div className='About-section'>
-            <h1>About me</h1>
+        <div className='content-section' >
+            <h4 className='content-title'>About</h4>
+            <p className='content-para'>
+                I am a frontend developer with a particular interest 
+                in making things simple and automating daily tasks. 
+                I try to keep up with security and best practices, 
+                and am always looking for new things to learn.
+            </p>
         </div>
 
     );
