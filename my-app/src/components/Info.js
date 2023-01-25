@@ -1,5 +1,5 @@
 import React from 'react';
-import icon from '../images/logo192.png';
+import icon from '../images/pic2.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 // import { faEnvelope } from '@fortawesome/free-brands-svg-icons'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
@@ -7,11 +7,11 @@ export default function Info() {
     return(
         <div className='info-section'>
             <img src={icon} />
-            <h2 className='name'>Laura Smith</h2>
+            <h2 className='name'>Muzhda Noorzad</h2>
             <p className='occupation'>Frontend Developer</p>
-            <small className='email-add'>laurasmith.website</small>
+            <small className='email-add'>email@gmail.com</small>
             <div className='email-btn'>
-            <a href="mailto:muzhda.noorzad4@gmail.com">
+            <a href="mailto:email@gmail.com">
                 <FontAwesomeIcon icon={faEnvelope} /> Email </a>
             </div>
         </div>

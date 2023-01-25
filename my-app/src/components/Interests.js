@@ -5,9 +5,9 @@ export default function interests() {
         <div className='content-section'>
             <h4 className='content-title'>Interests</h4>
             <p className='content-para'>
-                Food expert. Music scholar. Reader. Internet fanatic. 
-                Bacon buff. Entrepreneur. 
-                Travel geek. Pop culture ninja. Coffee fanatic.
+                Food expert. Books. Internet fanatic. Kpop fanatic.
+                Entrepreneur. Travel geek. Anime lover. Tea always, but
+                Morning coffee first. gardening. 
             </p>
         </div>
 
