@@ -12,8 +12,9 @@ export default function Info() {
             <p className='occupation'>Frontend Developer</p>
             <small className='email-add'>email@gmail.com</small>
             <div className='email-btn'>
-            <a href="mailto:email@gmail.com">
-                <FontAwesomeIcon icon={faEnvelope} /> Email </a>
+            <a href="mailto:muzhda.noorzad4@gmail.com">
+                <FontAwesomeIcon icon={faEnvelope} /> Email 
+            </a>
             </div>
         </div>
 
