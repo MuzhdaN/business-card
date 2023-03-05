@@ -3,6 +3,7 @@
 
 - This is a responsive static bussiness card. The design has been taken from the FreeCodeAcadempy [youtube](https://www.youtube.com/watch?v=bMknfKXIFA8) video. 
 - The developer has changed the design according to her choice. 
+- The email button works in small devices such as mobile. 
 
 #### Check the website [here](https://muzhdan.github.io/business-card/).  
 
