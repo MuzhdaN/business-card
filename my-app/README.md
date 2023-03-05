@@ -1,9 +1,13 @@
-##  **Static Digital Bussiness Card**
-testing
+#  **Static Digital Bussiness Card**
 
-- This is a responsive static bussiness card. The design has been taken from the FreeCodeAcadempy [youtube](https://www.youtube.com/watch?v=bMknfKXIFA8) video and Scrimba [course](https://scrimba.com/learn/learnreact). 
+
+- This is a responsive static bussiness card. The design has been taken from the FreeCodeAcadempy [youtube](https://www.youtube.com/watch?v=bMknfKXIFA8) video. 
 - The developer has changed the design according to her choice. 
 
+#### Check the website [here](https://muzhdan.github.io/business-card/).  
+
+
+## Design
 
 Check out the following static bussiness card for the responsivness: 
 ![Bussiness Card in Desktop](./src/images/desktop1.PNG)
@@ -17,7 +21,7 @@ Check out the following static bussiness card for the responsivness:
 - **Static Bussiness Card in Phone**
 ![Bussiness Card in Phone](./src/images/phone.PNG)
 
-### **Fixed Errors**
+## **Fixed Errors**
 
  - **Error**: ```WebSocketClient.js:16 WebSocket connection to 'wss://3000-...' failed:```
     - **Solution**: create ".env" file and add the following code, then save it. [src](https://github.com/facebook/create-react-app/issues/11897)
