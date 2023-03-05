@@ -1,4 +1,6 @@
 ##  **Static Digital Bussiness Card**
+testing
+
 - This is a responsive static bussiness card. The design has been taken from the FreeCodeAcadempy [youtube](https://www.youtube.com/watch?v=bMknfKXIFA8) video and Scrimba [course](https://scrimba.com/learn/learnreact). 
 - The developer has changed the design according to her choice. 
 
@@ -15,7 +17,6 @@ Check out the following static bussiness card for the responsivness:
 - **Static Bussiness Card in Phone**
 ![Bussiness Card in Phone](./src/images/phone.PNG)
 
-
 ### **Fixed Errors**
 
  - **Error**: ```WebSocketClient.js:16 WebSocket connection to 'wss://3000-...' failed:```
@@ -23,7 +24,7 @@ Check out the following static bussiness card for the responsivness:
     ```
        WDS_SOCKET_PORT=0 
     ```
-    
+
 - **Error**:  
     - `GET https://3000-.../manifest.json 401 (Unauthorized)` 
     - `manifest.json:1 Manifest: Line: 1, column: 1, Syntax error.`
